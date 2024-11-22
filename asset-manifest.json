@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reddit-minimal-project/static/css/main.2a3ec239.css",
+    "main.js": "/reddit-minimal-project/static/js/main.3960d854.js",
+    "index.html": "/reddit-minimal-project/index.html",
+    "main.2a3ec239.css.map": "/reddit-minimal-project/static/css/main.2a3ec239.css.map",
+    "main.3960d854.js.map": "/reddit-minimal-project/static/js/main.3960d854.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a3ec239.css",
+    "static/js/main.3960d854.js"
+  ]
+}
